@@ -1,3 +1,3 @@
 这里是EPY的博客，EPY会发表一些意见
 
-[【四月30日博客：《心灵奇旅》&《大人帝国的反击》】](https://github.com/EpiphyYT/EpiphyYT.github.io/blob/main/blog_1_april_30_2025)
+[【四月30日博客：《心灵奇旅》&《大人帝国的反击》】](blog_1_april_30_2025)
