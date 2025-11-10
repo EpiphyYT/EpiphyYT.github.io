@@ -22,6 +22,16 @@ The prototype of light gun technology can be traced back to before the birth of 
 
 This game accurately recreated the primitive yet immersive act of hunting. Players had to physically participate by waiting for the duck model to emerge from the grass before performing the shooting action. Unlike modern video games, this early device had no scoring system, level design, or difficulty balancing. Its core value lay in simulating a realistic hunting scene to deliver a purely sensory experience for the player.
 
+**Figure 1**
+_Photo of the Ray_OLite _
+![封面](./assets/images/FromLightGunGamesToFPS/rayolit3(1).png)
+_Note_ From Ray_Olite (n.d.).,by _pinrepar_, unknown year, Pinrpair (https://www.pinrepair.com/arcade/rayolit.html). Used under fair use for educational purposes.
+
+**Figure 2**
+_Photo of the Ray_OLite _
+![封面](./assets/images/FromLightGunGamesToFPS/rayolit4(1).png)
+_Note_ From Ray_Olite (n.d.).,by _pinrepar_, unknown year, Pinrpair (https://www.pinrepair.com/arcade/rayolit.html). Used under fair use for educational purposes.
+
 **Source**
 *   Pinrepair.com. (n.d.). Ray-O-Lite rifle. Retrieved from https://www.pinrepair.com/arcade/rayolit.htm
 
@@ -31,6 +41,16 @@ As an early racing game, Indianapolis 500 (Indy 500) featured a custom steering 
 The player’s physical rotation of the wheel produced instant feedback in the form of corresponding steering responses from the car in the game, directly reflecting the early video game industry’s simple yet earnest pursuit of realistic driving experiences.
 
 It is worth noting that Indianapolis 500 was the only commercial game compatible with this specific driving controller, and it could only run with this exclusive peripheral. Such a phenomenon was quite common in the early video game industry, where developing non-general-purpose controllers was regarded as a necessary measure to enhance gameplay experiences. At that time, the core of game design emphasized the “physical presence” of the player, and these dedicated peripherals were the key medium through which that sense of embodied interaction was achieved.
+
+**Figure 4**
+_Photo of the atari driving controller _
+![封面](./assets/images/FromLightGunGamesToFPS/Atari_driving_Wikipedia.jpg)
+_Note_ From Atari Driving Conrtoller (n.d.).,by Wikipedia contributors, unknown year, Wikipedia(https://www.wikipedia.org/wiki/Indy_500(1977_video_game)). Used under fair use for educational purposes.
+
+**Figure 5**
+_Photo of the Indy500 _
+![封面](./assets/images/FromLightGunGamesToFPS/Atari_driving_Wikipedia.jpg)
+_Note_ From IIndy 500 (n.d.).,by Wikipedia contributors, unknown year, Wikipedia(https://www.wikipedia.org/wiki/Indy_500(1977_video_game)). Used under fair use for educational purposes.
 
 **Source**
 * The Henry Ford. (n.d.). Indy 500 Driving Controller (Atari VCS). Retrieved from https://www.thehenryford.org/collections-and-research/digital-collections/artifact/455866/
@@ -42,8 +62,14 @@ Star Raiders is a space combat simulation game that features an independent keyb
 
 Unlike modern games that typically feature a gentle difficulty curve, Star Raiders—along with many other early titles—was characterized by high difficulty and the absence of beginner guidance. Its relentless pursuit of “realistic simulation” led developers to deliberately increase operational difficulty to enhance immersion, a hallmark that would later define the early era of “hardcore gaming.”
 
+**Figure 6**
+_Photo of the Stair Raiders _
+![封面](./assets/images/FromLightGunGamesToFPS/star-raiders-v1-241021-114103-1.png)
+_Note_ From Stair Raiders (n.d.).,by Wikipedia contributors, unknown year, Wikipedia(https://en.wikipedia.org/wiki/Star_Raider). Used under fair use for educational purposes.
+
+
 **Source**
-*Discovering Star Raiders on Atari 400/800. (2025, April 8). Retro Arcadia. https://retroarcadia.blog/2025/04/09/discovering-star-raiders-on-atari-8-bit/
+* Discovering Star Raiders on Atari 400/800. (2025, April 8). Retro Arcadia. https://retroarcadia.blog/2025/04/09/discovering-star-raiders-on-atari-8-bit/
 *  Wikipedia. (n.d.). Star Raiders. In Wikipedia, The Free Encyclopedia. Retrieved from https://en.wikipedia.org/wiki/Star_Raider
 
 ###  Kaboom! – Atari VCS (1981) 
@@ -51,7 +77,14 @@ Kaboom! features an extremely simple control scheme: the player manipulates thre
 
 The release of Kaboom! signified a transitional moment in game design, marking the shift from a “simulation-driven culture” to a “fun-oriented culture.” Games during this period no longer aimed primarily to replicate real-world experiences, but rather to emphasize pure entertainment value. Titles of this kind were typically easy to learn and operate, requiring players to master just a single core skill—such as timing button presses—to experience enjoyment. As such gameplay mechanics became more refined and varied, video games began to enter a new stage of creative and cultural evolution.
 
+**Figure 7**
+_Photo of Kaboom! _
+![封面](./assets/images/FromLightGunGamesToFPS/Atarikaboom.jpg)
+_Note_ From Kaboom (n.d.).,by Wiki contributors, unknown year, Fandom Wiki(https://atari.fandom.com/wiki/Kaboom!). Used under fair use for educational purposes.
+
+
 **Source**
+*  Wiki, C. T. A. (n.d.). Kaboom! (2600). Atari Wiki. https://atari.fandom.com/wiki/Kaboom!_(2600)
 *  GameFAQs. (2006, November 5). Kaboom! for Atari 2600 reviews. Retrieved from https://gamefaqs.gamespot.com/atari2600/584825-kaboom/reviews/123623
 
 ## The Rise of the Ligh Gun: from realism to fun
@@ -63,6 +96,12 @@ Wild Gunman was a Nintendo Famicom title developed exclusively for use with the 
 
 In line with earlier “realism-driven” game design philosophies, the core appeal of Wild Gunman lay in providing players with an immersive experience that captured the intense tension of 19th-century American frontier gunfights. Its highly interactive mechanics not only heightened the sense of realism but also significantly enhanced the game’s entertainment value.
 
+**Figure 8**
+_Photo of the NES Wild Gunman _
+![封面](./assets/images/FromLightGunGamesToFPS/NES_Wild_Gunman_Wikipedia.png)
+_Note_ From NES WIld Guman (n.d.).,by Wikipedia contributors, unknown year, Wikipedia(https://en.wikipedia.org/wiki/Wild_Gunman). Used under fair use for educational purposes.
+
+
 **Source**
 * Profile, V. (2021, February 5). Wild Gunman: An electronic shoot-out at home. https://www.nintendoclassics.net/2021/02/wild-gunman-poor-mans-hogans-alley.html
 * Wikipedia contributors. (2025, October 20). Wild Gunman. Wikipedia. https://en.wikipedia.org/wiki/Wild_Gunman
@@ -73,12 +112,12 @@ Duck Hunt was released just two months after the launch of the Beam Gun peripher
 
 Like the earlier Ray-O-Lite, Duck Hunt was also hunting-themed, but as the medium evolved into the electronic era, the game introduced more complex rules, more engaging feedback, and higher-frequency interactions. Rather than striving for a purely realistic simulation, it embraced entertainment-oriented design—for example, when the player fails to shoot a duck, the mocking laughter animation of the hunting dog serves as a playful punishment mechanic, reinforcing the game’s humor and charm while enhancing player engagement.
 
-**Figure 7**
+**Figure 9**
 _Scrrenshot from Duck Hunt from Sym Bulton Libarary_
 ![封面](./assets/images/FromLightGunGamesToFPS/diclhunt.png)
 _Note_ By the author, taken in November, 7, 2025 in UTM Sym Bulton Libarary
 
-**Figure 8**
+**Figure 10**
 _Scrrenshot from Duck Hunt from Sym Bulton Libarary_
 ![封面](./assets/images/FromLightGunGamesToFPS/duck_hunt_1.png)
 _Note_ By the author, taken in November, 7, 2025 in UTM Sym Bulton Libarary
@@ -93,8 +132,13 @@ Laser Invasion, developed by Konami and released in 1991 for the Nintendo Entert
 
 The game was praised as a hybrid experience that blended multiple gameplay genres, introducing more complex narratives and multidimensional mechanics to create a richer, more immersive experience. This marked a significant turning point in game design philosophy—signaling the industry’s transition from designing games around toys to designing games around player experience. Laser Invasion thus stands as a milestone in the evolution toward fully electronic, experience-driven gameplay design.
 
+**Figure 11**
+_Photo of the Laser Invasionn _
+![封面](./assets/images/FromLightGunGamesToFPS/Laser-Invasion-U-0.png)
+_Note_ From Laser Invasion (n.d.).,by Cornlious, 2022, Questicle(https://questicle.net/355-laser-invasion/). Used under fair use for educational purposes.
+
 **Source**
-*Cornelius, D. (2022, October 11). #355 – Laser invasion. Questicle. https://questicle.net/355-laser-invasion/
+* Cornelius, D. (2022, October 11). #355 – Laser invasion. Questicle. https://questicle.net/355-laser-invasion/
 * Arnpoly. (2018, May 14). #75 – Laser Invasion. Take on the NES Library. https://takeontheneslibrary.com/finished/75-laser-invasion/
 
 ### The House of the Dead 2 - Sega Dreamcast (1998)
@@ -102,6 +146,13 @@ The game was praised as a hybrid experience that blended multiple gameplay genre
 The House of the Dead 2 is one of the most iconic light gun shooting games on the SEGA Dreamcast platform and was later ported to PC. As a sequel to the original title, it retained many of its predecessor’s core elements—such as zombie shooting, a limited ammunition system, health management, and multiple branching paths.
 
 By this stage, the evolution of light gun games had become evident: gameplay was growing increasingly complex and multidimensional. Accroding to The Wiki of the Dead (n.d.), Players were no longer tested solely on their shooting accuracy and reflexes, but were also required to engage with strategic decision-making, narrative progression, and resource management. This reflected a broader shift in design philosophy—from straightforward arcade-style shooting toward integrated, cinematic, and system-driven experiences that blended action with storytelling depth.
+
+
+**Figure 12**
+_Photo of the House of the Dead _
+![封面](./assets/images/FromLightGunGamesToFPS/House_Of_The_Dead_Wikpidia.png)
+_Note_ From House of the Dead (n.d.).,by Wikipedia contributors, unknown year, Wikipedia(https://thehouseofthedead.fandom.com/wiki/The_House_of_the_Dead_2). Used under fair use for educational purposes.
+
 
 **Source**
 *  Dead, C. T. W. O. T. (n.d.). The House of the Dead 2. The Wiki of the Dead. https://thehouseofthedead.fandom.com/wiki/The_House_of_the_Dead_2
@@ -112,12 +163,12 @@ Time Crisis 3 can be regarded as one of the final high points of the light gun e
 
 This design incorporated tactical strategy and single-player narrative depth, signaling an evolution beyond traditional point-and-shoot gameplay. While Time Crisis 3 remained fundamentally focused on shooting mechanics, with player freedom largely confined to reaction speed and aiming accuracy, its structured pacing and rhythmic mission design brought it closer to the conventions of modern game design. It represented a moment when light gun games achieved technical and experiential maturity, just before the genre’s gradual fade from mainstream popularity.
 
-**Figure 7**
+**Figure 13**
 _Scrrenshot from Time Crisis 3 from Sym Bulton Libarary_
 ![TimeCrisis1](./assets/images/FromLightGunGamesToFPS/timecrisis3.png)
 _Note_ By the author, taken in November, 7, 2025 in UTM Sym Bulton Libarary
 
-**Figure 7**
+**Figure 14**
 _Scrrenshot from Time Crisis 3 from Sym Bulton Libarary_
 ![TimeCrisis1](./assets/images/FromLightGunGamesToFPS/timecrisis_3_1.png)
 _Note_ By the author, taken in November, 7, 2025 in UTM Sym Bulton Libarary
@@ -133,6 +184,11 @@ Rez is a groundbreaking game that fuses shooting mechanics with music-driven gam
 Celebrated as an innovative experimental work, Rez went beyond the conventional limits of controller vibration. The designer sought to merge “music games” and “shooting games” into a unified sensory experience—transforming the concept of a “game” into a medium for holistic physical and emotional immersion. The Trance Vibrator served as the physical embodiment of this vision, extending the game’s sensory reach beyond the screen.
 
 However, despite critical acclaim, Rez did not achieve significant commercial success. In contrast, a very different design philosophy—one focused on accessible, mass-market shooting gameplay rather than experimental sensory expression—rose to prominence. This divergence ultimately paved the way for the mainstream, household-famous shooting games that would define the genre in the years to come.
+
+**Figure 15**
+_Photo of the Rez _
+![封面](./assets/images/FromLightGunGamesToFPS/frontpage_004.jpg)
+_Note_ From Rez (n.d.).,by Rez infinite, unknown year, RezInifite( https://en.wikipedia.org/wiki/Rez_(video_game)). Used under fair use for educational purposes.
 
 **Source**
 * Rez infinite. (n.d.). https://www.rezinfinite.com/
@@ -150,6 +206,11 @@ DOOM stands as a landmark title in gaming history, widely regarded as the origin
 
 Carmack believed that the fast-paced thrill of combat and instant gratification of kills were far more compelling than elaborate plots - "story in game is like story in a porn movie - the plot is expected to be there, but it's not that important", as he said (Carmack, as cited in Wikipedia, 2025). This approach led to the creation of the first true FPS deathmatch mode, a revolutionary concept that redefined how players could compete and interact in digital spaces. Through its technical innovation, modular design, and raw kinetic energy, DOOM not only set the template for future FPS games but also shaped the very culture of competitive, networked play that defines modern gaming.
 
+**Figure 16**
+_Photo of the Doom _
+![封面](./assets/images/FromLightGunGamesToFPS/Doom_Wikipedia.png)
+_Note_ From Doom(n.d.).,by Wikipedia contributors, unknown year, Wikipedia(https://en.wikipedia.org/wiki/Doom_(1993_video_game)). Used under fair use for educational purposes.
+
 **Source**
 * Wikipedia contributors. (2025c, October 26). Doom (1993 video game). Wikipedia. https://en.wikipedia.org/wiki/Doom_(1993_video_game)
 
@@ -161,6 +222,11 @@ Earlier FPS titles typically offered linear levels and narrative-driven progress
 
 Quake III Arena became one of the first true online esports titles, laying the groundwork for a global competitive gaming culture. In the early 2000s, it helped spark the rise of professional tournaments, sponsored teams, and esports organizations, marking a pivotal moment in the transformation of video games from personal entertainment to spectator-driven digital sport.
 
+**Figure 16**
+_Photo of the Quark III _
+![封面](./assets/images/FromLightGunGamesToFPS/Quake_III_Arena_wikipedia.png)
+_Note_ From Quark III(n.d.).,by Wikipedia contributors, unknown year, Wikipedia(https://en.wikipedia.org/wiki/Quake_III_Arena)). Used under fair use for educational purposes.
+
 **Source**
 *  Wikipedia contributors. (2025b, October 19). Quake III Arena. Wikipedia. https://en.wikipedia.org/wiki/Quake_III_Arena
 
@@ -171,6 +237,12 @@ Unreal Tournament, released in 1999, was built on the first generation of the le
 Both these two titles signaled the genre’s full transition from single-player campaigns to network-based multiplayer experiences, redefining what it meant to “play” an FPS in the online era. What distinguished Unreal Tournament was its emphasis on openness and community culture: it actively encouraged user-generated content, allowing players to create and share their own maps, modes, and modifications.
 
 This ethos was deeply rooted in the open-source spirit inherited from the DOOM era, where player tinkering and modding were seen as extensions of the creative process rather than deviations from it. The vibrant MOD community that grew around Unreal Tournament would go on to inspire and shape the next generation of mainstream, large-scale shooters, laying the foundation for the rise of iconic franchises and the birth of modern community-driven game development.
+
+**Figure 17**
+_Photo of the Unreal Tornament _
+![封面](./assets/images/FromLightGunGamesToFPS/Unreal_Tournament_Wikepdia.jpg)
+_Note_ From Unreal Tournament(n.d.).,by Wikipedia contributors, unknown year, Wikipedia(https://en.wikipedia.org/wiki/Unreal_Tournament). Used under fair use for educational purposes.
+
 
 **Source**
 *  Wikipedia contributors. (2025b, October 3). Unreal tournament. Wikipedia. https://en.wikipedia.org/wiki/Unreal_Tournament
@@ -185,6 +257,16 @@ The release of Counter-Strike: Global Offensive 2 (CS2) in 2023, designed specif
 In this transformation, the goal of play itself has shifted. The primal joy once found in simply hitting a target—rooted in instinct and immediacy—has been replaced by the pursuit of measurable performance: rankings, statistics, sponsorships, and professional recognition. The FPS genre, in this sense, has undergone a capitalist rationalization, evolving from an embodied sensory experience into a structured system of achievement and productivity.
 
 From that point onward, we might say that shooting games entered the adult world—a realm where play, competition, and industry converge into a single, highly rationalized cultural form.
+
+**Figure 18**
+_Photo of the CSGO _
+![封面](./assets/images/FromLightGunGamesToFPS/Csgo_wikpedia_1.jpg)
+_Note_ From CS:GO (n.d.).,by Wikipedia contributors, unknown year, Wikipedia(https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive). Used under fair use for educational purposes.
+
+**Figure 19**
+_Photo of the CSGO _
+![封面](./assets/images/FromLightGunGamesToFPS/Csgo_wikpedia_2.jpg)
+_Note_ From CS:GO (n.d.).,by Wikipedia contributors, unknown year, Wikipedia(https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive). Used under fair use for educational purposes.
 
 **Source**
 * Wikipedia contributors. (2025b, September 19). Counter-Strike: Global Offensive. Wikipedia. https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive
