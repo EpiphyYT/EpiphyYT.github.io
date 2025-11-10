@@ -34,7 +34,8 @@ It is worth noting that Indianapolis 500 was the only commercial game compatible
 
 **Source**
 * The Henry Ford. (n.d.). Indy 500 Driving Controller (Atari VCS). Retrieved from https://www.thehenryford.org/collections-and-research/digital-collections/artifact/455866/
-
+* Wikipedia contributors. (2025a, September 11). Indy 500 (1977 video game). Wikipedia. https://en.wikipedia.org/wiki/Indy_500_(1977_video_game)#:~:text=Indy%20500%20is%20a%201977,player%20arcade%20game%2C%20Indy%20800.
+* 
 ###  Star Raiders – Atari (1979) 
 
 Star Raiders is a space combat simulation game that features an independent keyboard control panel and presents its gameplay from a first-person cockpit perspective (Wikipedia, n.d.). The core design philosophy of the game was to recreate the authentic operational experience of a pilot as closely as possible, thereby building a strong sense of immersion for the player. Due to the complexity of its keyboard-based control logic, the game was widely regarded within the industry as highly challenging.
@@ -42,6 +43,7 @@ Star Raiders is a space combat simulation game that features an independent keyb
 Unlike modern games that typically feature a gentle difficulty curve, Star Raiders—along with many other early titles—was characterized by high difficulty and the absence of beginner guidance. Its relentless pursuit of “realistic simulation” led developers to deliberately increase operational difficulty to enhance immersion, a hallmark that would later define the early era of “hardcore gaming.”
 
 **Source**
+*Discovering Star Raiders on Atari 400/800. (2025, April 8). Retro Arcadia. https://retroarcadia.blog/2025/04/09/discovering-star-raiders-on-atari-8-bit/
 *  Wikipedia. (n.d.). Star Raiders. In Wikipedia, The Free Encyclopedia. Retrieved from https://en.wikipedia.org/wiki/Star_Raider
 
 ###  Kaboom! – Atari VCS (1981) 
@@ -62,6 +64,7 @@ Wild Gunman was a Nintendo Famicom title developed exclusively for use with the 
 In line with earlier “realism-driven” game design philosophies, the core appeal of Wild Gunman lay in providing players with an immersive experience that captured the intense tension of 19th-century American frontier gunfights. Its highly interactive mechanics not only heightened the sense of realism but also significantly enhanced the game’s entertainment value.
 
 **Source**
+* Profile, V. (2021, February 5). Wild Gunman: An electronic shoot-out at home. https://www.nintendoclassics.net/2021/02/wild-gunman-poor-mans-hogans-alley.html
 * Wikipedia contributors. (2025, October 20). Wild Gunman. Wikipedia. https://en.wikipedia.org/wiki/Wild_Gunman
 
 ### Duck Hunt - Nintendo NES (1984)
@@ -91,6 +94,7 @@ Laser Invasion, developed by Konami and released in 1991 for the Nintendo Entert
 The game was praised as a hybrid experience that blended multiple gameplay genres, introducing more complex narratives and multidimensional mechanics to create a richer, more immersive experience. This marked a significant turning point in game design philosophy—signaling the industry’s transition from designing games around toys to designing games around player experience. Laser Invasion thus stands as a milestone in the evolution toward fully electronic, experience-driven gameplay design.
 
 **Source**
+*Cornelius, D. (2022, October 11). #355 – Laser invasion. Questicle. https://questicle.net/355-laser-invasion/
 * Arnpoly. (2018, May 14). #75 – Laser Invasion. Take on the NES Library. https://takeontheneslibrary.com/finished/75-laser-invasion/
 
 ### The House of the Dead 2 - Sega Dreamcast (1998)
@@ -131,6 +135,7 @@ Celebrated as an innovative experimental work, Rez went beyond the conventional 
 However, despite critical acclaim, Rez did not achieve significant commercial success. In contrast, a very different design philosophy—one focused on accessible, mass-market shooting gameplay rather than experimental sensory expression—rose to prominence. This divergence ultimately paved the way for the mainstream, household-famous shooting games that would define the genre in the years to come.
 
 **Source**
+* Rez infinite. (n.d.). https://www.rezinfinite.com/
 *  Wikipedia contributors. (2025a, September 15). Rez (video game). Wikipedia. https://en.wikipedia.org/wiki/Rez_(video_game)
 
 ## The Formation of an Efficiency Culture
