@@ -308,3 +308,56 @@ _Note_ From CS:GO (n.d.).,by Wikipedia contributors, unknown year, Wikipedia(htt
 
 **Source**
 * Wikipedia contributors. (2025b, September 19). Counter-Strike: Global Offensive. Wikipedia. https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive
+
+
+
+
+
+
+
+
+# Reference
+
+Arnpoly. (2018, May 14). #75 – Laser Invasion. Take on the NES Library. https://takeontheneslibrary.com/finished/75-laser-invasion/
+
+Carmack, J. (as cited in Wikipedia). (2025). Doom (1993 video game). Wikipedia. https://en.wikipedia.org/wiki/Doom_(1993_video_game)
+
+Cornelius, D. (2022, October 11). #355 – Laser Invasion. Questicle. https://questicle.net/355-laser-invasion/
+
+Dead, C. T. W. O. T. (n.d.). The House of the Dead 2. The Wiki of the Dead. https://thehouseofthedead.fandom.com/wiki/The_House_of_the_Dead_2
+
+Dunham, J. (2016, June 30). E3 2003: Time Crisis 3 – IGN. IGN. https://www.ign.com/articles/2003/05/09/e3-2003-time-crisis-3-2
+
+GameFAQs. (2006, November 5). Kaboom! for Atari 2600 reviews. https://gamefaqs.gamespot.com/atari2600/584825-kaboom/reviews/123623
+
+Nintendo, C. T. (n.d.). Duck Hunt. Nintendo. https://nintendo.fandom.com/wiki/Duck_Hunt
+
+Pinrepair.com. (n.d.). Ray-O-Lite rifle. https://www.pinrepair.com/arcade/rayolit.htm
+
+Profile, V. (2021, February 5). Wild Gunman: An electronic shoot-out at home. Nintendo Classics. https://www.nintendoclassics.net/2021/02/wild-gunman-poor-mans-hogans-alley.html
+
+Retro Arcadia. (2025, April 8). Discovering Star Raiders on Atari 400/800. https://retroarcadia.blog/2025/04/09/discovering-star-raiders-on-atari-8-bit/
+
+Rez Infinite. (n.d.). Rez Infinite. https://www.rezinfinite.com/
+
+The Henry Ford. (n.d.). Indy 500 Driving Controller (Atari VCS). The Henry Ford Museum. https://www.thehenryford.org/collections-and-research/digital-collections/artifact/455866/
+
+Wikipedia contributors. (2025a, September 11). Indy 500 (1977 video game). In Wikipedia. https://en.wikipedia.org/wiki/Indy_500_(1977_video_game)
+
+Wikipedia contributors. (2025b, October 19). Quake III Arena. In Wikipedia. https://en.wikipedia.org/wiki/Quake_III_Arena
+
+Wikipedia contributors. (2025b, October 3). Unreal Tournament. In Wikipedia. https://en.wikipedia.org/wiki/Unreal_Tournament
+
+Wikipedia contributors. (2025b, September 19). Counter-Strike: Global Offensive. In Wikipedia. https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive
+
+Wikipedia contributors. (2025c, October 26). Doom (1993 video game). In Wikipedia. https://en.wikipedia.org/wiki/Doom_(1993_video_game)
+
+Wikipedia contributors. (2025g, November 6). Duck Hunt. In Wikipedia. https://en.wikipedia.org/wiki/Duck_Hunt
+
+Wikipedia contributors. (2025, October 20). Wild Gunman. In Wikipedia. https://en.wikipedia.org/wiki/Wild_Gunman
+
+Wikipedia contributors. (2025, September 15). Rez (video game). In Wikipedia. https://en.wikipedia.org/wiki/Rez_(video_game)
+
+Wikipedia contributors. (n.d.). Star Raiders. In Wikipedia, The Free Encyclopedia. https://en.wikipedia.org/wiki/Star_Raider
+
+Wiki, C. T. A. (n.d.). Kaboom! (2600). Atari Wiki. https://atari.fandom.com/wiki/Kaboom!_(2600)
