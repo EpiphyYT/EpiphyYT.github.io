@@ -65,6 +65,9 @@ Duck Hunt was released just two months after the launch of the Beam Gun peripher
 
 Like the earlier Ray-O-Lite, Duck Hunt was also hunting-themed, but as the medium evolved into the electronic era, the game introduced more complex rules, more engaging feedback, and higher-frequency interactions. Rather than striving for a purely realistic simulation, it embraced entertainment-oriented design—for example, when the player fails to shoot a duck, the mocking laughter animation of the hunting dog serves as a playful punishment mechanic, reinforcing the game’s humor and charm while enhancing player engagement.
 
+![封面](./assets/images/FromLightGunGamesToFPS/diclhunt.png)
+
+![封面](./assets/images/FromLightGunGamesToFPS/duck_hunt_1.png)
 * Nintendo, C. T. (n.d.). Duck Hunt. Nintendo. https://nintendo.fandom.com/wiki/Duck_Hunt
 * Wikipedia contributors. (2025g, November 6). Duck Hunt. Wikipedia. https://en.wikipedia.org/wiki/Duck_Hunt
 
@@ -90,6 +93,8 @@ Time Crisis 3 can be regarded as one of the final high points of the light gun e
 
 This design incorporated tactical strategy and single-player narrative depth, signaling an evolution beyond traditional point-and-shoot gameplay. While Time Crisis 3 remained fundamentally focused on shooting mechanics, with player freedom largely confined to reaction speed and aiming accuracy, its structured pacing and rhythmic mission design brought it closer to the conventions of modern game design. It represented a moment when light gun games achieved technical and experiential maturity, just before the genre’s gradual fade from mainstream popularity.
 
+![TimeCrisis1](./assets/images/FromLightGunGamesToFPS/timecrisis3.png)
+![TimeCrisis1](./assets/images/FromLightGunGamesToFPS/timecrisis_3_1.png)
 *  Dunham, J. (2016, June 30). E3 2003: Time Crisis 3 - IGN. IGN. https://www.ign.com/articles/2003/05/09/e3-2003-time-crisis-3-2
 
 ### Rez - PlaStation 2 (2001)
