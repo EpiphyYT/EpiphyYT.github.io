@@ -24,12 +24,16 @@ This game accurately recreated the primitive yet immersive act of hunting. Playe
 
 **Figure 1**
 _Photo of the Ray_OLite _
-![封面](./assets/images/FromLightGunGamesToFPS/rayolit3(1).png)
+
+![封面](./assets/images/FromLightGunGamesToFPS/1.jpg)
+
 _Note_ From Ray_Olite (n.d.).,by _pinrepar_, unknown year, Pinrpair (https://www.pinrepair.com/arcade/rayolit.html). Used under fair use for educational purposes.
 
 **Figure 2**
 _Photo of the Ray_OLite _
-![封面](./assets/images/FromLightGunGamesToFPS/rayolit4(1).png)
+
+![封面](./assets/images/FromLightGunGamesToFPS/2.jpg)
+
 _Note_ From Ray_Olite (n.d.).,by _pinrepar_, unknown year, Pinrpair (https://www.pinrepair.com/arcade/rayolit.html). Used under fair use for educational purposes.
 
 **Source**
@@ -44,12 +48,16 @@ It is worth noting that Indianapolis 500 was the only commercial game compatible
 
 **Figure 4**
 _Photo of the atari driving controller _
+
 ![封面](./assets/images/FromLightGunGamesToFPS/Atari_driving_Wikipedia.jpg)
+
 _Note_ From Atari Driving Conrtoller (n.d.).,by Wikipedia contributors, unknown year, Wikipedia(https://www.wikipedia.org/wiki/Indy_500(1977_video_game)). Used under fair use for educational purposes.
 
 **Figure 5**
 _Photo of the Indy500 _
+
 ![封面](./assets/images/FromLightGunGamesToFPS/Indy_500_1977_Wikipedia.png)
+
 _Note_ From IIndy 500 (n.d.).,by Wikipedia contributors, unknown year, Wikipedia(https://www.wikipedia.org/wiki/Indy_500(1977_video_game)). Used under fair use for educational purposes.
 
 **Source**
@@ -64,7 +72,9 @@ Unlike modern games that typically feature a gentle difficulty curve, Star Raide
 
 **Figure 6**
 _Photo of the Stair Raiders _
+
 ![封面](./assets/images/FromLightGunGamesToFPS/star-raiders-v1-241021-114103-1.png)
+
 _Note_ From Stair Raiders (n.d.).,by Wikipedia contributors, unknown year, Wikipedia(https://en.wikipedia.org/wiki/Star_Raider). Used under fair use for educational purposes.
 
 
@@ -79,7 +89,9 @@ The release of Kaboom! signified a transitional moment in game design, marking t
 
 **Figure 7**
 _Photo of Kaboom! _
+
 ![封面](./assets/images/FromLightGunGamesToFPS/Atarikaboom.jpg)
+
 _Note_ From Kaboom (n.d.).,by Wiki contributors, unknown year, Fandom Wiki(https://atari.fandom.com/wiki/Kaboom!). Used under fair use for educational purposes.
 
 
@@ -98,7 +110,9 @@ In line with earlier “realism-driven” game design philosophies, the core app
 
 **Figure 8**
 _Photo of the NES Wild Gunman _
+
 ![封面](./assets/images/FromLightGunGamesToFPS/NES_Wild_Gunman_Wikipedia.png)
+
 _Note_ From NES WIld Guman (n.d.).,by Wikipedia contributors, unknown year, Wikipedia(https://en.wikipedia.org/wiki/Wild_Gunman). Used under fair use for educational purposes.
 
 
@@ -114,12 +128,16 @@ Like the earlier Ray-O-Lite, Duck Hunt was also hunting-themed, but as the mediu
 
 **Figure 9**
 _Scrrenshot from Duck Hunt from Sym Bulton Libarary_
+
 ![封面](./assets/images/FromLightGunGamesToFPS/diclhunt.png)
+
 _Note_ By the author, taken in November, 7, 2025 in UTM Sym Bulton Libarary
 
 **Figure 10**
 _Scrrenshot from Duck Hunt from Sym Bulton Libarary_
+
 ![封面](./assets/images/FromLightGunGamesToFPS/duck_hunt_1.png)
+
 _Note_ By the author, taken in November, 7, 2025 in UTM Sym Bulton Libarary
 
 **Source**
@@ -134,7 +152,9 @@ The game was praised as a hybrid experience that blended multiple gameplay genre
 
 **Figure 11**
 _Photo of the Laser Invasionn _
+
 ![封面](./assets/images/FromLightGunGamesToFPS/Laser-Invasion-U-0.png)
+
 _Note_ From Laser Invasion (n.d.).,by Cornlious, 2022, Questicle(https://questicle.net/355-laser-invasion/). Used under fair use for educational purposes.
 
 **Source**
@@ -150,7 +170,9 @@ By this stage, the evolution of light gun games had become evident: gameplay was
 
 **Figure 12**
 _Photo of the House of the Dead _
+
 ![封面](./assets/images/FromLightGunGamesToFPS/House_Of_The_Dead_Wikpidia.png)
+
 _Note_ From House of the Dead (n.d.).,by Wikipedia contributors, unknown year, Wikipedia(https://thehouseofthedead.fandom.com/wiki/The_House_of_the_Dead_2). Used under fair use for educational purposes.
 
 
@@ -165,12 +187,16 @@ This design incorporated tactical strategy and single-player narrative depth, si
 
 **Figure 13**
 _Scrrenshot from Time Crisis 3 from Sym Bulton Libarary_
+
 ![TimeCrisis1](./assets/images/FromLightGunGamesToFPS/timecrisis3.png)
+
 _Note_ By the author, taken in November, 7, 2025 in UTM Sym Bulton Libarary
 
 **Figure 14**
 _Scrrenshot from Time Crisis 3 from Sym Bulton Libarary_
+
 ![TimeCrisis1](./assets/images/FromLightGunGamesToFPS/timecrisis_3_1.png)
+
 _Note_ By the author, taken in November, 7, 2025 in UTM Sym Bulton Libarary
 
 
@@ -187,7 +213,9 @@ However, despite critical acclaim, Rez did not achieve significant commercial su
 
 **Figure 15**
 _Photo of the Rez _
+
 ![封面](./assets/images/FromLightGunGamesToFPS/frontpage_004.jpg)
+
 _Note_ From Rez (n.d.).,by Rez infinite, unknown year, RezInifite( https://en.wikipedia.org/wiki/Rez_(video_game)). Used under fair use for educational purposes.
 
 **Source**
@@ -208,7 +236,9 @@ Carmack believed that the fast-paced thrill of combat and instant gratification 
 
 **Figure 16**
 _Photo of the Doom _
+
 ![封面](./assets/images/FromLightGunGamesToFPS/Doom_Wikipedia.png)
+
 _Note_ From Doom(n.d.).,by Wikipedia contributors, unknown year, Wikipedia(https://en.wikipedia.org/wiki/Doom_(1993_video_game)). Used under fair use for educational purposes.
 
 **Source**
@@ -224,7 +254,9 @@ Quake III Arena became one of the first true online esports titles, laying the g
 
 **Figure 16**
 _Photo of the Quark III _
+
 ![封面](./assets/images/FromLightGunGamesToFPS/Quake_III_Arena_wikipedia.png)
+
 _Note_ From Quark III(n.d.).,by Wikipedia contributors, unknown year, Wikipedia(https://en.wikipedia.org/wiki/Quake_III_Arena)). Used under fair use for educational purposes.
 
 **Source**
@@ -240,7 +272,9 @@ This ethos was deeply rooted in the open-source spirit inherited from the DOOM e
 
 **Figure 17**
 _Photo of the Unreal Tornament _
+
 ![封面](./assets/images/FromLightGunGamesToFPS/Unreal_Tournament_Wikepdia.jpg)
+
 _Note_ From Unreal Tournament(n.d.).,by Wikipedia contributors, unknown year, Wikipedia(https://en.wikipedia.org/wiki/Unreal_Tournament). Used under fair use for educational purposes.
 
 
@@ -260,12 +294,16 @@ From that point onward, we might say that shooting games entered the adult world
 
 **Figure 18**
 _Photo of the CSGO _
+
 ![封面](./assets/images/FromLightGunGamesToFPS/Csgo_wikpedia_1.jpg)
+
 _Note_ From CS:GO (n.d.).,by Wikipedia contributors, unknown year, Wikipedia(https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive). Used under fair use for educational purposes.
 
 **Figure 19**
 _Photo of the CSGO _
+
 ![封面](./assets/images/FromLightGunGamesToFPS/Csgo_wikipedia_2.jpeg)
+
 _Note_ From CS:GO (n.d.).,by Wikipedia contributors, unknown year, Wikipedia(https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive). Used under fair use for educational purposes.
 
 **Source**
