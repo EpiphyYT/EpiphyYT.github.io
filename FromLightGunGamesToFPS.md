@@ -49,7 +49,7 @@ _Note_ From Atari Driving Conrtoller (n.d.).,by Wikipedia contributors, unknown 
 
 **Figure 5**
 _Photo of the Indy500 _
-![封面](./assets/images/FromLightGunGamesToFPS/Atari_driving_Wikipedia.jpg)
+![封面](./assets/images/FromLightGunGamesToFPS/Indy_500_1977_Wikipedia.png)
 _Note_ From IIndy 500 (n.d.).,by Wikipedia contributors, unknown year, Wikipedia(https://www.wikipedia.org/wiki/Indy_500(1977_video_game)). Used under fair use for educational purposes.
 
 **Source**
@@ -265,7 +265,7 @@ _Note_ From CS:GO (n.d.).,by Wikipedia contributors, unknown year, Wikipedia(htt
 
 **Figure 19**
 _Photo of the CSGO _
-![封面](./assets/images/FromLightGunGamesToFPS/Csgo_wikpedia_2.jpg)
+![封面](./assets/images/FromLightGunGamesToFPS/Csgo_wikipedia_2.jpeg)
 _Note_ From CS:GO (n.d.).,by Wikipedia contributors, unknown year, Wikipedia(https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive). Used under fair use for educational purposes.
 
 **Source**
